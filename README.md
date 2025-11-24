@@ -2,8 +2,8 @@
 
 # Дорожная карта для Инженера по машинному обучению
 # Machine Learning Engineer Roadmap (2025)
+<img width="1139" height="715" alt="Снимок экрана 2025-11-24 в 12 05 34 PM" src="https://github.com/user-attachments/assets/22c12858-b00b-4b27-991e-346429d509a4" />
 
-<img width="2367" height="1701" alt="Неназванный документ" src="https://github.com/user-attachments/assets/7a2f9bc2-abc9-413c-ae4f-f40da42f0497" />
 
 # Зарплаты (2025)
 ### Machine Learning Engineer
