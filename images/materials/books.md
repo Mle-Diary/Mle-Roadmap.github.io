@@ -115,11 +115,6 @@
 <table align="center" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
   <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
-    <a href="https://drive.google.com/file/d/1DiCdEa6WdDpaDlDJtPxA-c86FzxQNSIc/view?usp=sharing">
-      <img src="images/image-1.png" alt="Data Science from Scratch" width="750" style="border: 2px solid #000;">
-    </a>
-  </td>
-  <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
     <a href="https://drive.google.com/file/d/1LNT5JWjlJWROKsN8O6L6RiOe8KyYakTR/view?usp=sharing">
       <img src="images/image.png" alt="Recommender Systems Handbook" width="750" style="border: 2px solid #000;">
     </a>
